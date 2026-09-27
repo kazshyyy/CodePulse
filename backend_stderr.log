@@ -1,0 +1,7 @@
+INFO:     Will watch for changes in these directories: ['D:\\CodePulse\\backend']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [5260] using WatchFiles
+INFO:     Started server process [5112]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
